@@ -11,3 +11,5 @@ jsPsych ver.7 を使った実験のプログラム達です。
 ・バージョンを固定しておきたい  
 という理由で、ローカルのPCにコピーした状態で使うのを前提にしています。
 
+# jsPsych の入手方法
+本家 https://github.com/jspsych/jsPsych/releases から、Dist archive (zip) を、ダウンロードしてください。
