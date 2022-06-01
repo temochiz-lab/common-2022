@@ -17,4 +17,6 @@ https://github.com/jspsych/jsPsych/releases/tag/jspsych%407.0.0
 ここから、Dist archive (zip) を、ダウンロードしてください。  
 
 
-本家最新版 https://github.com/jspsych/jsPsych/releases から、Dist archive (zip) を、ダウンロードしてください。
+本家最新版  
+https://github.com/jspsych/jsPsych/releases  
+から、Dist archive (zip) を、ダウンロードしてください。
