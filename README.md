@@ -22,4 +22,5 @@ https://github.com/jspsych/jsPsych/releases
 
 # 実験データをExcelで開く時の注意
 事前にデータをメモ帳で開いて、「UTF-8 BOM付き」で保存してから、Excelで開きます。  
-(Excelは Shift-JISコードで開こうとするので、UTF-8を明示するための作業です。)
+(Excelは Shift-JISコードで開こうとするので、UTF-8を明示するための作業です。)  
+その他に、無料のLibreOfficeを使うと言う方法もあります。  https://ja.libreoffice.org/
