@@ -21,5 +21,5 @@ https://github.com/jspsych/jsPsych/releases
 から、Dist archive (zip) を、ダウンロードしてください。
 
 # 実験データをExcelで開く時の注意
-事前にデータをメモ帳で開いて、「UTF-8 BOM付き」で保存してから、Excelで開きます。
+事前にデータをメモ帳で開いて、「UTF-8 BOM付き」で保存してから、Excelで開きます。  
 (Excelは Shift-JISコードで開こうとするので、UTF-8を明示するための作業です。)
