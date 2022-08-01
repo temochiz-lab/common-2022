@@ -25,7 +25,7 @@ index.html をダブルクリックして実行します。
 
 
 
-本家最新版  
+# 本家最新版  
 https://github.com/jspsych/jsPsych/releases  
 から、Dist archive (zip) を、ダウンロードしてください。
 
