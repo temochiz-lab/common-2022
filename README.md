@@ -17,7 +17,7 @@ https://github.com/jspsych/jsPsych/releases/tag/jspsych%407.0.0
 ここから、Dist archive (zip) を、ダウンロードしてください。  
 
 # 各自のプログラムのダウンロードとインストール
-この手順を参考にしてやってみてください。
+この手順を参考にしてやってみてください。  
 https://github.com/temochiz-lab/common-2022/blob/main/install/readme.md
   
 # 本家最新版  
