@@ -11,9 +11,10 @@ https://github.com/jspsych/jsPsych/releases/tag/jspsych%407.0.0
 自分のレポジトリの「Code」から「Download ZIP」を選択して、ダウンロードする。
   
 ## 3.ダウンロードしたファイルをデスクトップにコピー
-ダウンロードした jsPsych本体と、自分のプログラム を、デスクトップに置く。
-![](desktop1.png)
-
+ダウンロードした jsPsych本体と、自分のプログラム を、デスクトップに置く。  
+![](desktop1.png)  
+  
 ## 4.ダウンロードしたファイルの展開
-
+ダウンロードしたファイルを、それぞれ展開する。  
+![](desktop2.png)  
 
