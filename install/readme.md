@@ -18,3 +18,6 @@ https://github.com/jspsych/jsPsych/releases/tag/jspsych%407.0.0
 ダウンロードしたファイルを、それぞれ展開する。  
 ![](desktop2.png)  
 
+## 5.自分のプログラムを、jsPsych フォルダに移動する。
+この時に、自分のプログラムは、  
+myprogram(自分のレポジトリ名)/myprogram(自分のレポジトリ名) という構成になっているので、丸ごとではなくてmyprogramフォルダを開いた中にあるmyprogramフォルダ(ややこしい)を移動する。
