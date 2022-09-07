@@ -21,7 +21,8 @@ https://github.com/jspsych/jsPsych/releases/tag/jspsych%407.0.0
 ## 5.自分のプログラムを、jsPsych フォルダに移動する。
 この時に、自分のプログラムは、  
 myprogram(自分のレポジトリ名、例ではtakatama-2022-main)/myprogram(自分のレポジトリ名) という構成になっているので、丸ごとではなくてmyprogramフォルダを開いた中にあるmyprogramフォルダ(ややこしい)を移動する。
+![](desktop3.png)  
   
 こんな感じにできていればOK.  
-![](desktop3.png)  
+![](desktop4.png)  
 
