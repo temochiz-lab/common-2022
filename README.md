@@ -17,14 +17,9 @@ https://github.com/jspsych/jsPsych/releases/tag/jspsych%407.0.0
 ここから、Dist archive (zip) を、ダウンロードしてください。  
 
 # 各自のプログラムのダウンロードとインストール
-各自のレポジトリからCODE(緑色のボタン)→ Download ZIP で、持ってきたファイルを解凍。  
-ディレクトリ丸ごと jsPsych に置きます。  
-
-# 実行方法
-index.html をダブルクリックして実行します。  
-
-
-
+この手順を参考にしてやってみてください。
+https://github.com/temochiz-lab/common-2022/blob/main/install/readme.md
+  
 # 本家最新版  
 https://github.com/jspsych/jsPsych/releases  
 から、Dist archive (zip) を、ダウンロードしてください。
